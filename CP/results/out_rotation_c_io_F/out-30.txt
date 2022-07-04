@@ -1,0 +1,89 @@
+% Pruned 49989 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49980 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49956 learnt clauses
+% Pruned 49694 learnt clauses
+% Pruned 49695 learnt clauses
+% Pruned 49691 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49795 learnt clauses
+% Pruned 49387 learnt clauses
+%%%mzn-stat: nodes=2986886
+%%%mzn-stat: failures=1976481
+%%%mzn-stat: restarts=3781
+%%%mzn-stat: variables=119305
+%%%mzn-stat: intVars=270
+%%%mzn-stat: boolVariables=119033
+%%%mzn-stat: propagators=3251
+%%%mzn-stat: propagations=1365189516
+%%%mzn-stat: peakDepth=351
+%%%mzn-stat: nogoods=1976481
+%%%mzn-stat: backjumps=765286
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=299.920
+%%%mzn-stat: initTime=0.058
+%%%mzn-stat: solveTime=299.862
+%%%mzn-stat: objective=38
+%%%mzn-stat: optTime=7.405
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.42
+%%%mzn-stat: randomSeed=42
+37 38
+27
+3 3 3 17
+3 4 34 29
+3 5 1 33
+3 6 0 17
+3 7 1 26
+3 8 6 12
+9 3 4 20
+3 11 34 18
+3 12 4 26
+3 13 23 17
+14 3 9 16
+17 3 7 31
+18 3 0 23
+3 21 31 13
+3 4 28 30
+4 4 24 30
+5 4 18 23
+6 4 17 27
+10 4 13 19
+22 4 9 12
+24 4 8 34
+3 5 34 13
+5 4 32 34
+6 5 0 12
+10 5 7 26
+5 14 26 16
+37 12 0 0
+% time elapsed: 300.11 s
+% Time limit exceeded!

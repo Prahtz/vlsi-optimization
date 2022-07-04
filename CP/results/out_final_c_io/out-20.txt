@@ -1,0 +1,58 @@
+% Pruned 49994 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49980 learnt clauses
+% Pruned 49977 learnt clauses
+% Pruned 49972 learnt clauses
+% Pruned 49968 learnt clauses
+% Pruned 49964 learnt clauses
+% Pruned 49960 learnt clauses
+% Pruned 49955 learnt clauses
+% Pruned 49949 learnt clauses
+% Pruned 49945 learnt clauses
+% Pruned 49939 learnt clauses
+%%%mzn-stat: nodes=772167
+%%%mzn-stat: failures=742388
+%%%mzn-stat: restarts=168
+%%%mzn-stat: variables=11768
+%%%mzn-stat: intVars=100
+%%%mzn-stat: boolVariables=11666
+%%%mzn-stat: propagators=1704
+%%%mzn-stat: propagations=204052286
+%%%mzn-stat: peakDepth=44
+%%%mzn-stat: nogoods=742388
+%%%mzn-stat: backjumps=22924
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=24.094
+%%%mzn-stat: initTime=0.014
+%%%mzn-stat: solveTime=24.080
+%%%mzn-stat: objective=27
+%%%mzn-stat: optTime=24.080
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.04
+%%%mzn-stat: randomSeed=42
+27 27
+21
+3 3 24 24
+3 4 21 23
+3 5 24 19
+3 6 12 21
+3 7 15 20
+3 8 18 19
+3 9 24 10
+3 10 24 0
+3 11 21 12
+3 12 21 0
+3 19 18 0
+3 20 15 0
+3 21 12 0
+4 3 8 24
+4 4 8 20
+4 6 8 14
+4 7 0 20
+4 8 4 19
+4 14 8 0
+4 19 4 0
+4 20 0 0
+% time elapsed: 24.22 s
+% time elapsed: 24.22 s

@@ -1,0 +1,88 @@
+% Pruned 49974 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49372 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 45476 learnt clauses
+% Pruned 49663 learnt clauses
+% Pruned 49984 learnt clauses
+% Pruned 48192 learnt clauses
+% Pruned 45278 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49834 learnt clauses
+% Pruned 49973 learnt clauses
+% Pruned 49653 learnt clauses
+% Pruned 49639 learnt clauses
+% Pruned 49648 learnt clauses
+% Pruned 49635 learnt clauses
+% Pruned 49651 learnt clauses
+% Pruned 49972 learnt clauses
+% Pruned 49904 learnt clauses
+% Pruned 49965 learnt clauses
+% Pruned 49967 learnt clauses
+% Pruned 49957 learnt clauses
+% Pruned 49971 learnt clauses
+% Pruned 49978 learnt clauses
+% Pruned 49669 learnt clauses
+% Pruned 49949 learnt clauses
+% Pruned 49953 learnt clauses
+% Pruned 49956 learnt clauses
+% Pruned 49966 learnt clauses
+% Pruned 49955 learnt clauses
+%%%mzn-stat: nodes=2618228
+%%%mzn-stat: failures=1904370
+%%%mzn-stat: restarts=3616
+%%%mzn-stat: variables=109534
+%%%mzn-stat: intVars=270
+%%%mzn-stat: boolVariables=109262
+%%%mzn-stat: propagators=3251
+%%%mzn-stat: propagations=1177820355
+%%%mzn-stat: peakDepth=475
+%%%mzn-stat: nogoods=1904370
+%%%mzn-stat: backjumps=479809
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=299.931
+%%%mzn-stat: initTime=0.058
+%%%mzn-stat: solveTime=299.873
+%%%mzn-stat: objective=33
+%%%mzn-stat: optTime=10.254
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.63
+%%%mzn-stat: randomSeed=42
+32 33
+27
+3 3 0 30
+4 3 10 30
+3 5 10 13
+6 3 26 0
+7 3 3 30
+8 3 14 30
+9 3 6 22
+10 3 22 30
+11 3 18 27
+3 12 10 1
+3 13 29 3
+3 14 29 16
+3 15 16 0
+18 3 0 27
+3 22 13 0
+3 23 23 0
+3 24 26 3
+3 25 3 2
+3 27 0 0
+3 4 16 19
+4 4 19 19
+4 5 19 10
+6 4 17 15
+7 4 6 18
+4 10 19 0
+11 4 15 23
+4 18 6 0
+% time elapsed: 300.11 s
+% Time limit exceeded!

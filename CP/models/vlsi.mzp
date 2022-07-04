@@ -1,0 +1,12 @@
+{
+    "openFiles": [
+        "vlsi_complete.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "solver.mpc",
+        "vlsi_complete.mzn"
+    ],
+    "selectedSolverConfigFile": "solver.mpc",
+    "version": 106
+}

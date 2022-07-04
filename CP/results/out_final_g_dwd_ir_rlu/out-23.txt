@@ -1,0 +1,35 @@
+30 30
+20
+3 3 24 6
+3 4 10 0
+3 5 7 25
+3 6 24 0
+3 7 24 23
+3 8 4 9
+3 9 4 0
+3 10 10 20
+3 11 27 19
+3 13 4 17
+3 14 24 9
+3 16 10 4
+3 19 27 0
+3 25 7 0
+4 3 0 6
+4 4 0 26
+4 6 0 0
+4 8 0 9
+4 9 0 17
+11 30 13 0
+% time elapsed: 5.41 s
+% time elapsed: 5.41 s
+%%%mzn-stat: initTime=0.000323
+%%%mzn-stat: solveTime=5.31973
+%%%mzn-stat: solutions=74
+%%%mzn-stat: variables=41
+%%%mzn-stat: propagators=25
+%%%mzn-stat: propagations=4381894
+%%%mzn-stat: nodes=856434
+%%%mzn-stat: failures=424428
+%%%mzn-stat: restarts=534
+%%%mzn-stat: peakDepth=63
+%%%mzn-stat-end

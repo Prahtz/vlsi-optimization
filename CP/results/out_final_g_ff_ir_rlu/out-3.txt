@@ -1,0 +1,21 @@
+10 10
+6
+3 3 7 0
+3 4 0 6
+3 6 0 0
+3 7 7 3
+4 4 3 0
+4 6 3 4
+% time elapsed: 0.10 s
+% time elapsed: 0.10 s
+%%%mzn-stat: initTime=0.000262
+%%%mzn-stat: solveTime=0.001224
+%%%mzn-stat: solutions=17
+%%%mzn-stat: variables=13
+%%%mzn-stat: propagators=11
+%%%mzn-stat: propagations=3086
+%%%mzn-stat: nodes=485
+%%%mzn-stat: failures=138
+%%%mzn-stat: restarts=18
+%%%mzn-stat: peakDepth=19
+%%%mzn-stat-end

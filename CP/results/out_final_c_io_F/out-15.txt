@@ -1,0 +1,40 @@
+%%%mzn-stat: nodes=7084
+%%%mzn-stat: failures=844
+%%%mzn-stat: restarts=117
+%%%mzn-stat: variables=6480
+%%%mzn-stat: intVars=80
+%%%mzn-stat: boolVariables=6398
+%%%mzn-stat: propagators=979
+%%%mzn-stat: propagations=597566
+%%%mzn-stat: peakDepth=112
+%%%mzn-stat: nogoods=844
+%%%mzn-stat: backjumps=548
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=0.066
+%%%mzn-stat: initTime=0.008
+%%%mzn-stat: solveTime=0.058
+%%%mzn-stat: objective=22
+%%%mzn-stat: optTime=0.058
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.02
+%%%mzn-stat: randomSeed=42
+22 22
+16
+3 3 7 0
+3 4 16 18
+3 5 4 7
+3 6 19 16
+3 7 4 0
+3 8 7 3
+3 9 13 0
+3 10 4 12
+3 11 7 11
+3 12 19 4
+3 13 13 9
+3 14 16 4
+3 22 10 0
+4 3 0 19
+4 19 0 0
+6 4 16 0
+% time elapsed: 0.18 s
+% time elapsed: 0.18 s

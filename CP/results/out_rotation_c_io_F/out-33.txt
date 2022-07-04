@@ -1,0 +1,46 @@
+% Pruned 49683 learnt clauses
+% Pruned 49994 learnt clauses
+%%%mzn-stat: nodes=514325
+%%%mzn-stat: failures=175561
+%%%mzn-stat: restarts=435
+%%%mzn-stat: variables=69345
+%%%mzn-stat: intVars=200
+%%%mzn-stat: boolVariables=69143
+%%%mzn-stat: propagators=1844
+%%%mzn-stat: propagations=82256994
+%%%mzn-stat: peakDepth=179
+%%%mzn-stat: nogoods=175561
+%%%mzn-stat: backjumps=324645
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=17.524
+%%%mzn-stat: initTime=0.037
+%%%mzn-stat: solveTime=17.487
+%%%mzn-stat: objective=40
+%%%mzn-stat: optTime=17.486
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.19
+%%%mzn-stat: randomSeed=42
+40 40
+20
+3 3 31 32
+3 4 37 29
+5 3 21 29
+6 3 26 29
+3 7 37 33
+3 8 34 32
+9 3 12 37
+10 3 21 32
+12 3 0 37
+16 3 0 29
+40 3 0 22
+4 4 36 25
+14 4 0 25
+22 4 14 25
+5 3 32 29
+4 5 0 32
+5 8 16 29
+12 5 4 32
+13 5 21 35
+40 22 0 0
+% time elapsed: 17.66 s
+% time elapsed: 17.66 s

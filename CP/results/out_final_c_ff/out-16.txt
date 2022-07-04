@@ -1,0 +1,151 @@
+% Pruned 50000 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49986 learnt clauses
+% Pruned 49983 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49988 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49981 learnt clauses
+% Pruned 49976 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49984 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49980 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49983 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49988 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49986 learnt clauses
+% Pruned 49995 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49983 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49986 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49988 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49982 learnt clauses
+% Pruned 49979 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49986 learnt clauses
+% Pruned 49981 learnt clauses
+% Pruned 49988 learnt clauses
+% Pruned 49986 learnt clauses
+% Pruned 49983 learnt clauses
+% Pruned 49981 learnt clauses
+% Pruned 49979 learnt clauses
+% Pruned 49976 learnt clauses
+% Pruned 49975 learnt clauses
+% Pruned 49988 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49986 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49982 learnt clauses
+% Pruned 49979 learnt clauses
+% Pruned 49978 learnt clauses
+% Pruned 49976 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49996 learnt clauses
+%%%mzn-stat: nodes=5707438
+%%%mzn-stat: failures=5451855
+%%%mzn-stat: restarts=118
+%%%mzn-stat: variables=8119
+%%%mzn-stat: intVars=90
+%%%mzn-stat: boolVariables=8027
+%%%mzn-stat: propagators=1390
+%%%mzn-stat: propagations=2473061674
+%%%mzn-stat: peakDepth=40
+%%%mzn-stat: nogoods=5451855
+%%%mzn-stat: backjumps=251327
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=242.735
+%%%mzn-stat: initTime=0.010
+%%%mzn-stat: solveTime=242.725
+%%%mzn-stat: objective=23
+%%%mzn-stat: optTime=242.718
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.02
+%%%mzn-stat: randomSeed=42
+23 23
+19
+3 3 7 9
+3 4 14 19
+3 5 14 14
+3 6 20 17
+3 7 20 10
+3 8 3 12
+3 9 11 0
+3 10 20 0
+3 11 17 12
+3 12 17 0
+3 14 14 0
+3 20 0 0
+4 3 7 6
+4 4 10 19
+4 6 7 0
+4 10 10 9
+4 11 6 12
+4 12 3 0
+6 3 0 20
+% time elapsed: 242.85 s
+% time elapsed: 242.85 s

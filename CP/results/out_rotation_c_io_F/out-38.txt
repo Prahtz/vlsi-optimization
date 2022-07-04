@@ -1,0 +1,85 @@
+% Pruned 49980 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 47800 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 48134 learnt clauses
+% Pruned 48085 learnt clauses
+% Pruned 49024 learnt clauses
+%%%mzn-stat: nodes=2812528
+%%%mzn-stat: failures=1697573
+%%%mzn-stat: restarts=3329
+%%%mzn-stat: variables=154719
+%%%mzn-stat: intVars=290
+%%%mzn-stat: boolVariables=154427
+%%%mzn-stat: propagators=3725
+%%%mzn-stat: propagations=2172719163
+%%%mzn-stat: peakDepth=372
+%%%mzn-stat: nogoods=1697573
+%%%mzn-stat: backjumps=899634
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=299.938
+%%%mzn-stat: initTime=0.069
+%%%mzn-stat: solveTime=299.869
+%%%mzn-stat: objective=61
+%%%mzn-stat: optTime=10.432
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.42
+%%%mzn-stat: randomSeed=42
+30 61
+29
+6 18 24 11
+12 2 8 59
+7 10 5 12
+23 4 7 0
+4 1 2 0
+7 7 17 11
+4 11 0 50
+5 6 1 41
+7 2 13 28
+11 6 1 35
+10 19 20 42
+5 11 12 30
+2 4 12 18
+5 7 12 11
+4 2 4 59
+12 7 0 28
+13 7 17 35
+6 3 0 47
+10 6 20 29
+16 9 4 50
+4 1 20 28
+10 4 14 18
+24 6 0 22
+9 9 6 41
+1 2 12 28
+5 8 15 42
+3 5 17 30
+25 7 5 4
+5 21 0 1
+% time elapsed: 300.13 s
+% Time limit exceeded!

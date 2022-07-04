@@ -1,0 +1,90 @@
+% Pruned 49985 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49997 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49506 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49982 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49190 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49786 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49969 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49988 learnt clauses
+% Pruned 49998 learnt clauses
+%%%mzn-stat: nodes=3009501
+%%%mzn-stat: failures=1909406
+%%%mzn-stat: restarts=3578
+%%%mzn-stat: variables=132963
+%%%mzn-stat: intVars=289
+%%%mzn-stat: boolVariables=132672
+%%%mzn-stat: propagators=3718
+%%%mzn-stat: propagations=1693071144
+%%%mzn-stat: peakDepth=393
+%%%mzn-stat: nogoods=1909406
+%%%mzn-stat: backjumps=842397
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=299.929
+%%%mzn-stat: initTime=0.060
+%%%mzn-stat: solveTime=299.869
+%%%mzn-stat: objective=40
+%%%mzn-stat: optTime=7.972
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.28
+%%%mzn-stat: randomSeed=42
+39 40
+29
+3 3 4 22
+4 3 35 24
+5 3 14 16
+6 3 0 15
+7 3 5 28
+8 3 4 25
+9 3 4 19
+10 3 13 19
+11 3 23 19
+15 3 7 22
+4 3 35 21
+4 4 20 15
+5 4 24 15
+6 4 33 36
+8 4 6 15
+9 4 6 31
+4 12 0 23
+15 4 18 36
+16 4 23 32
+5 3 29 16
+4 5 0 18
+5 5 34 27
+5 6 34 15
+8 5 15 30
+10 5 12 25
+11 5 23 27
+13 5 22 22
+18 5 0 35
+39 15 0 0
+% time elapsed: 300.12 s
+% Time limit exceeded!

@@ -1,0 +1,119 @@
+% Pruned 49986 learnt clauses
+% Pruned 49974 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49986 learnt clauses
+% Pruned 49984 learnt clauses
+% Pruned 49983 learnt clauses
+% Pruned 49981 learnt clauses
+% Pruned 49980 learnt clauses
+% Pruned 49979 learnt clauses
+% Pruned 49978 learnt clauses
+% Pruned 49977 learnt clauses
+% Pruned 49976 learnt clauses
+% Pruned 49974 learnt clauses
+% Pruned 49973 learnt clauses
+% Pruned 49972 learnt clauses
+% Pruned 49971 learnt clauses
+% Pruned 49970 learnt clauses
+% Pruned 49969 learnt clauses
+% Pruned 49968 learnt clauses
+% Pruned 49966 learnt clauses
+% Pruned 49965 learnt clauses
+% Pruned 49964 learnt clauses
+% Pruned 49962 learnt clauses
+% Pruned 49961 learnt clauses
+% Pruned 49960 learnt clauses
+% Pruned 49959 learnt clauses
+% Pruned 49958 learnt clauses
+% Pruned 49957 learnt clauses
+% Pruned 49956 learnt clauses
+% Pruned 49955 learnt clauses
+% Pruned 49953 learnt clauses
+% Pruned 49951 learnt clauses
+% Pruned 49949 learnt clauses
+% Pruned 49948 learnt clauses
+% Pruned 49947 learnt clauses
+% Pruned 49946 learnt clauses
+% Pruned 49945 learnt clauses
+% Pruned 49943 learnt clauses
+% Pruned 49941 learnt clauses
+% Pruned 49941 learnt clauses
+% Pruned 49940 learnt clauses
+% Pruned 49939 learnt clauses
+% Pruned 49922 learnt clauses
+% Pruned 49908 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49979 learnt clauses
+% Pruned 49972 learnt clauses
+% Pruned 49964 learnt clauses
+% Pruned 49955 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49978 learnt clauses
+% Pruned 49968 learnt clauses
+% Pruned 49956 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+% Pruned 50000 learnt clauses
+%%%mzn-stat: nodes=3614968
+%%%mzn-stat: failures=3473515
+%%%mzn-stat: restarts=231
+%%%mzn-stat: variables=20393
+%%%mzn-stat: intVars=128
+%%%mzn-stat: boolVariables=20263
+%%%mzn-stat: propagators=2838
+%%%mzn-stat: propagations=1069196206
+%%%mzn-stat: peakDepth=56
+%%%mzn-stat: nogoods=3473515
+%%%mzn-stat: backjumps=129506
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=146.827
+%%%mzn-stat: initTime=0.025
+%%%mzn-stat: solveTime=146.802
+%%%mzn-stat: objective=37
+%%%mzn-stat: optTime=146.802
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=0.04
+%%%mzn-stat: randomSeed=42
+37 37
+27
+3 3 25 34
+3 4 34 33
+3 5 28 32
+3 6 34 27
+3 7 34 20
+3 8 31 29
+3 9 34 11
+3 11 34 0
+3 12 31 17
+3 13 25 21
+3 14 28 18
+3 17 31 0
+3 18 28 0
+3 21 25 0
+4 3 17 34
+4 4 21 33
+4 5 21 28
+4 6 21 22
+4 10 17 24
+4 22 21 0
+4 24 17 0
+5 3 12 34
+5 4 12 30
+5 6 12 24
+5 10 12 14
+5 14 12 0
+12 37 0 0
+% time elapsed: 146.97 s
+% time elapsed: 146.97 s
